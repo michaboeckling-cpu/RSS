@@ -1,9 +1,88 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Ausschreibungen: Social Media</title>
     <link>https://oeffentlichevergabe.de/ui/de/search</link>
-    <description>Der Feed wird beim ersten GitHub-Actions-Lauf mit aktuellen Treffern befüllt.</description>
+    <description>Öffentliche Ausschreibungen mit dem Suchbegriff Social Media, gefiltert aus den Open-Data-Bekanntmachungen des Datenservice Öffentlicher Einkauf.</description>
     <language>de-de</language>
+    <lastBuildDate>Fri, 14 Aug 2026 14:29:29 +0000</lastBuildDate>
+    <ttl>180</ttl>
+    <item>
+      <title>Mediaplanung und -einkauf</title>
+      <link>http://www.bundesdruckerei.de/</link>
+      <description>Vergabestelle: Bundesdruckerei GmbH | Gegenstand der zu vergebenden Leistung sind Mediaplanung und -einkauf crossmedialer Kampagnen für unterschiedliche Zielgruppen innerhalb von Deutschland - perspektivisch auch im europäischen Raum. Im Rahmen dieser Kampagnen suchen wir eine Mediaagentur für die strategische Beratung, Planung, Einkauf, Monitoring und Optimierung, Reporting und Abrechnung von Medialeistungen.</description>
+      <pubDate>Thu, 13 Aug 2026 02:23:19 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-6c993167-26b6-473d-8ed2-8466693e57f2::448c0ce4-9fd9-4d57-b705-38211b72f806</guid>
+    </item>
+    <item>
+      <title>Konzeption und Durchführung einer Info-Kampagne zu den Regionalkonferenzen</title>
+      <link>http://www.base.bund.de</link>
+      <description>Vergabestelle: Bundesamt für die Sicherheit der nuklearen Entsorgung | Das BASE ist Genehmigungs- und Aufsichtsbehörde des Bundes für nukleare Sicherheit und kerntechnische Entsorgung und Träger der Öffentlichkeitsbeteiligung im Standortauswahlverfahren für ein Endlager für hochradioaktive Abfälle. Gegenstand dieses Vertrages ist die Konzeption und Durchführung einer Informationskampagne zu den Regionalkonferenzen, mit der die Öffentlichkeit, betroffene Regionen, politische und administrative Akteure sowie Multiplikator:innen über das Standortauswahlverfahren und ihre Beteiligungsmöglichkeiten informiert und zur sachlichen Beteiligung befähigt werden. Sie umfasst bedarfsabhängige Kommunikationsmaßnahmen und koordinierte Info-Aktionen zu spezifischen, kritischen Zeitpunkten des Beteiligungsverfahrens. Im Rahmen der Informationskampagne unterstützt die Auftragnehmerin die Einrichtung, Konstituierung und Arbeit der Regionalkonferenzen. Die Informationskampagne startet 2027 und umfasst mehrere Phasen, wobei der Schwerpunkt der Maßnahmen voraussichtlich im Zeitraum von Herbst 2027 bis Ende 2028 liegt. Gegenstand des Vertrages sind insbesondere die folgenden Leistungen: a) Projektmanagement- und PR-Beratungsleistungen b) Konzeptionelle Leistungen c) Redaktionelle Leistungen d) Kreativ-, Gestaltungs-, Informationsdesign-, Reinzeichnungs-, Rendering-, Audio- und Bewegtbildleistungen unter Beachtung des Corporate Designs des BASE e) Social-Media-Leistungen f) Mediaplanung g) Krisenprävention und -kommunikation h) Unterstützung der Pressearbeit des BASE i) Betreuung von Ausstellungen und Info-Ständen bei regionalen Veranstaltungen durch Bereitstellung von geschultem Personal nach Bedarf des BASE j) Einrichtung und Betrieb einer Telefonhotline durch geschultes Personal - Weitere Einzelheiten zum Vertragsgegenstand und zur konkreten Leistungserbringung ergeben sich aus der Vergabeunterlage 04 „Leistungsbeschreibung“.</description>
+      <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-1c0d7342-0220-41f4-a8e5-788cf4765a15::5f57cf22-2441-4386-8d6a-cf2ff3583e51</guid>
+    </item>
+    <item>
+      <title>Produktion von Filmen, Fotos und Footage-Material zu den AHP-Preisträger*innen 2027</title>
+      <link>http://www.humboldt-foundation.de</link>
+      <description>Vergabestelle: Alexander von Humboldt-Stiftung (AvH) | Produktion von Filmen, Fotos und Footage-Material zu den AHP-Preisträger*innen 2027</description>
+      <pubDate>Wed, 05 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-5926172a-93df-4187-b7a5-1821d5074f81::92ef5e4d-0b8a-4247-b75e-f5a10a96ad0b</guid>
+    </item>
+    <item>
+      <title>Erbringung von Beratungsleistungen für das Employer Branding (Los 1) und Social Media des Employer Brandings (Los 2) des Auftraggebers</title>
+      <link>https://www.bundesbank.de/de</link>
+      <description>Vergabestelle: Deutsche Bundesbank | Erbringung von Beratungsleistungen für das Employer Branding (Los 1) und Social Media des Employer Brandings (Los 2) des Auftraggebers</description>
+      <pubDate>Sun, 02 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-8f9aa959-34ad-4571-9442-30f45e5c13e7::adb6939a-88b7-411d-a1c2-4061604f4962</guid>
+    </item>
+    <item>
+      <title>Rahmenvertrag über Dienstleistungen im Bereich der Öffentlichkeitsarbeit der Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen</title>
+      <link>https://www.berlin.de/sen/sbw/</link>
+      <description>Vergabestelle: Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen, V M 1 - Vergabestelle für den Öffentlichen Hochbau | Die Senatsverwaltung für Stadtentwicklung, Bauen und Wohnen (SenStadt) beabsichtigt, einen Rahmenvertrag für Dienstleistungen im Bereich „Öffentlichkeitsarbeit“ zu vergeben. Die Leistungen umfassen die Konzeption, Planung, Gestaltung, Durchführung und allgemeine Unterstützung bei bzw. von öffentlichkeitswirksamen Informations- und Kommunikationsmaßnahmen, sowie ggf. auch Kampagnen. Es wird eine geeignete Agentur gesucht, welche diese ÖA-Leistungen realisiert. Der Mix der Maßnahmen und Formate soll sich flexibel mit den stadtpolitischen und gesellschaftlichen Geschehnissen, Trends und Debatten weiterentwickeln können. Dazu sind kontinuierliche Abstimmungen mit den verantwortlichen Stellen der SenStadt notwendig und selbstverständlich. Die Maßnahmen und die Produkte für die Kommunikation sollen in hoher Qualität, zeitgemäß und nachhaltig erarbeitet werden und sich auch an verändernde politische und fachliche Rahmenbedingungen anpassen können.</description>
+      <pubDate>Sun, 02 Aug 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-e4c18877-3ed4-4fff-8f69-7c77521da047::d584da64-539e-4e5c-b219-00af4c7c5959</guid>
+    </item>
+    <item>
+      <title>Stellenausschreibung und Beratung</title>
+      <link>http://www.tu-dortmund.de</link>
+      <description>Vergabestelle: Technische Universität Dortmund | Gegenstand der Ausschreibung ist der Abschluss einer Rahmenvereinbarung zur Schaltung bzw. Veröffentlichung von Stellenanzeigen in Print- sowie Onlinemedien und Beratung und Umsetzung zur optimalen und zielgerichteten Schaltung von Stellenanzeigen oder z. B. Werbung in Social-Media-Kanälen. Es soll ein Vertrag für 24 Monate abgeschlossen werden. Es sollen zwei Lose gebildet werden.</description>
+      <pubDate>Wed, 29 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-f17e9a5c-a5b5-4c95-b2cf-94b895edd262::77694030-de98-46a8-907c-69e8e2ebd8c8</guid>
+    </item>
+    <item>
+      <title>Relaunch der Konzernhomepage</title>
+      <link>https://www.dtvp.de/Satellite/notice/CXP4YHHMUGW/documents</link>
+      <description>Vergabestelle: BG Kliniken - Klinikverbund der gesetzlichen Unfallversicherung gGmbH | Die Ausschreibung umfasst die vollständige Überarbeitung der Konzernhomepage der BG Kliniken mit derzeit 28 einzelnen Webauftritten als digitale Kommunikationsplattform auf Basis des Content Management Systems TYPO3 und mit Schnittstellen zu diversen Drittsystemen.</description>
+      <pubDate>Mon, 27 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-c52549ec-5506-4134-8702-0561728fcbca::f4e2753e-319d-4c82-9e9b-9316e2fe1504</guid>
+    </item>
+    <item>
+      <title>Unterstützung der Öffentlichkeitsarbeit des attoworld-Teams</title>
+      <link>https://www.lmu.de</link>
+      <description>Vergabestelle: Ludwig-Maximilians-Universität München | Der Auftraggeber beabsichtigt, zur Unterstützung der Öffentlichkeitsarbeit des attoworld-Teams auf der Grundlage eines Rahmenvertrags Dienstleistungen in den Bereichen Web Development und Maintenance sowie PR-Assistenz zu vergeben.</description>
+      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-a3486ac6-2bd8-424c-a6f7-611e2b5b2b5d::71493327-7c8d-45d8-8dfa-38d21869aa5e</guid>
+    </item>
+    <item>
+      <title>Rahmenvertrag Social-Media-Agentur für das weltwärts-Programm</title>
+      <link>https://www.dtvp.de/Satellite/notice/CXU9YYDYT22SPENR</link>
+      <description>Vergabestelle: Engagement Global gGmbH | Rahmenvertrag Social-Media-Agentur für das weltwärts-Programm</description>
+      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-25637316::25637316</guid>
+    </item>
+    <item>
+      <title>Vergebener Auftrag: Festakt zu 20 Jahre AGG</title>
+      <link>https://oeffentlichevergabe.de/ui/de/search</link>
+      <description>Vergabestelle: Bundesamt für Familie und zivilgesellschaftliche Aufgaben | Das Veranstaltungsmanagement des Bundesamtes für Familie und zivilgesellschaftliche Aufgaben hat im Auftrag der Antidiskirminirungsstelle des Bundes die Veranstaltung "Festakt zu 20 Jahre AGG" organisiert. Nähere Informationenen mit Festlegung der Verfahrensart finden Sie im als Anlage beigefügten PDF Schreiben auf bund.de. Location, Technik, Catering und Ausstattung, Moderation, Gebärdendolmetschung, Social-Media Videoproduktion, Awareness,</description>
+      <pubDate>Mon, 20 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-25610474::25610474</guid>
+    </item>
+    <item>
+      <title>10010807-Communication Campaign</title>
+      <link>https://www.giz.de</link>
+      <description>Vergabestelle: Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH | Women in Kosovo have less education and training opportunities than men and are therefore limited in their professional development. They are underrepresented in basic and general education, vocational training and labour market-oriented training, on the labour market and as start-up entrepreneurs. Around 20 per cent of women only have an income. This exacerbates economic inequality in rural areas, above all. Women from minority backgrounds, such as the Serbian minority in northern Kosovo, are particularly affected. The project aims to expand economic opportunities for disadvantaged women in rural Kosovo. This particularly affects the 35 to 55 age group and women who have dropped out of education or have completed it and are unable to find initial or continuing training. The project supports women in improving their employability and setting up and expanding small businesses in rural areas. Among other things, it provides training, advisory services and assistance with the regulation of unregulated work. It also develops gender-just financial support programmes. The project works with representatives of government and civil society. At the same time, the project is promoting a (nationwide) communication campaign with the aim of changing the views of Kosovan society and making it more open to women"s participation in vocational training and work. The overall module objective is that the employment prospects for disadvantaged women in rural areas in Kosovo have improved. The term "communication campaign" shall be used in a broadest sense of all measures that can enable a change of societal values, social norms, perceptions, attitudes and behaviour, i.e. social and behavior change (SBC). Output 1 strengthens the capacities and competences of selected public labour market service providers to pilot new labour market initiatives for disadvantaged women. Output 2 cooperates with civil society organisations to ensure that disadvantaged women in rural rooms benefit from gender-responsive labour market services to improve their employability. Output 3 initiates gender-transformative changes in the perception of women's participation in vocational training and employment in parts of Kosovan society.</description>
+      <pubDate>Thu, 09 Jul 2026 22:00:00 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-4e3f5a35-fafe-4ecd-9fce-bbf7149faa5b::e7befa0c-3efa-4665-a03c-a522c744e00e</guid>
+    </item>
   </channel>
 </rss>
