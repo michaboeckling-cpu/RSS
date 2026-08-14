@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Ausschreibungen: Social Media</title>
+    <link>https://oeffentlichevergabe.de/ui/de/search</link>
+    <description>Der Feed wird beim ersten GitHub-Actions-Lauf mit aktuellen Treffern befüllt.</description>
+    <language>de-de</language>
+  </channel>
+</rss>

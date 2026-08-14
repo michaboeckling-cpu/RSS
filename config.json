@@ -1,0 +1,15 @@
+{
+  "feed_title": "Ausschreibungen: Social Media",
+  "feed_description": "Öffentliche Ausschreibungen mit dem Suchbegriff Social Media, gefiltert aus den Open-Data-Bekanntmachungen des Datenservice Öffentlicher Einkauf.",
+  "keywords": [
+    "Social Media",
+    "Social-Media"
+  ],
+  "require_all_keywords": false,
+  "lookback_days": 30,
+  "max_items": 100,
+  "allowed_tags": [
+    "tender",
+    "tenderUpdate"
+  ]
+}
