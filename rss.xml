@@ -5,8 +5,15 @@
     <link>https://oeffentlichevergabe.de/ui/de/search</link>
     <description>Öffentliche Ausschreibungen für Agentur, Marke, Kampagne, Social Media, Website, Event und Employer Branding.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 24 Aug 2026 19:50:18 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 08:25:16 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>REZ NRW 45ind JC Rhein-Kreis Neuss</title>
+      <link>http://www.arbeitsagentur.de</link>
+      <description>Vergabestelle: Bundesagentur für Arbeit Regionales Einkaufszentrum NRW | Konzeption und Durchführung von Maßnahmen zur Aktivierung und beruflichen Eingliederung - Individuelle Maßnahmen Eventcoaching - nach § 45 Abs.1 S. 1 SGB III sowie nach § 16 Abs. 1 SGB II i.V.m. § 45 Abs. 1 S. 1 SGB III für ca. 1.050 Teilnehmende des JC Rhein-Kreis Neuss im Bezirk des REZ NRW -</description>
+      <pubDate>Mon, 24 Aug 2026 09:36:06 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-bc0e7eca-2a4c-4139-b0db-421140a223a8::aed4a999-0830-4688-b76c-6df547962522</guid>
+    </item>
     <item>
       <title>Rahmenvereinbarung Informations- und Werbekampagnen</title>
       <link>https://www.km.bayern.de</link>
@@ -699,13 +706,6 @@
       <description>Vergabestelle: Bundesinstitut für Öffentliche Gesundheit (BIÖG) | Betreuung und Weiterentwicklung der Medien Familienplanung (print und digital - www.familienplanung.de)</description>
       <pubDate>Wed, 19 Aug 2026 02:22:29 +0000</pubDate>
       <guid isPermaLink="false">ocds-mnwr74-e14067d6-4ef2-48ce-8843-b965c6a5f739::bbb40fa1-0626-4543-ab3d-857a3647d2f4</guid>
-    </item>
-    <item>
-      <title>Kurparkterrassen Bad Neuenahr-Ahrweiler / Büro- und Veranstaltungsgebäude: MOBILE TRENNWÄNDE / Akustische Trennung für Büro und Gastronomie</title>
-      <link>http://www.ahrtal.de</link>
-      <description>Vergabestelle: Ahrtal Marketing GmbH | Der Kurpark Bad Neuenahr ist eine denkmalgeschützte Parkanlage, welche Bestandteil der baulichen Gesamtanlage Kurbezirk ist. Mit dem Thermalbadhaus, dem Steigenberger Kurhotel sowie dem Kurhaussaal mit Spielbank bildet der Kurpark das historische Kurviertel des Stadtteils Bad-Neuenahr. Im südlichen Randbereich des Kurparks befindet sich das Gebäude Kurparkterrassen. Es handelt sich um ein zweigeschossiges Gebäude mit Untergeschoss. In massiver Bauweise 1972 errichtet, wurde das Gebäude durch die Flutkatastrophe im Juli 2021 im Unter- und Erdgeschoss stark beschädigt. Im Erdgeschoss wurde ein Wasserstand von 1,78 über Oberkante Fußboden gemessen. Das Erdgeschoss wurde vor der Flutkatastrophe als Bürofläche der Ahrtal Marketing GmbH (AMG) sowie als temporäre Veranstaltungsfläche ("Kleine Bühne") als Kompensation für die bereits rückgebaute, gegenüberliegende Konzerthalle genutzt. Die Nutzung entsprach einem städtischen Verwaltungs- und Veranstaltungsgebäude (Bürgerhaus). Das Obergeschoss wurde für Besprechungen, Kurse und Lagerflächen genutzt. Im Untergeschoss waren Lager- und Gesellschaftsräume verortet. Weiterhin wurde aufgrund der Flut das damals bestehende Technikgebäude des Großen Sprudels zerstört. Die Brunnentechnik wurde daraufhin temporäre in den Außenbereich verlegt und soll nun in das Untergeschoss des Gebäudes Kurparkterrassen integriert werden. Um den neuen und gewachsenen Flächenanforderungen der AMG Sorge zu tragen wurde innerhalb des ersten Planungsprozesses eine mögliche Sanierung mit potentieller Erweiterung untersucht. Aufgrund der gegebenen technischen Sanierbarkeit des Gebäudes, wurde im weiteren Zuge der Vorentwurfsplanung ein kostentechnischer Vergleich von Sanierung und Neubau erstellt. Als Ergebnis wurde festgestellt, dass die Sanierung und Erweiterung des Gebäudes nicht nur unter wirtschaftlichen, sondern auch unter dem Aspekt der Nachhaltigkeit die besser Lösung darstellt - CO2 Einsparung, die Nutzung bereits gebauter Kubatur sowie der Erhalt des architektonischen Gesamtkonzeptes. Das Gebäude Kurparkterrassen bildet mit dem Neubau der Kurparkliegenschaften ein Gesamtensemble. Gestalterisch lehnt sich das Gebäude Kurparkterrassen an den Neubau der Kurparkliegenschaften an. Dieses Ensemble wird über die Wiederherstellung der ehemaligen Kolonnade (Wandelgang) zwischen dem Neubau der Kurparkliegenschaften sowie dem Gebäude Kurparkterrassen vervollständigt.</description>
-      <pubDate>Wed, 19 Aug 2026 02:22:15 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-fc82ac80-95ef-454e-b2e6-2117ae72c0b4::5a33a306-a2fb-4ad5-af3e-ee7977b5f565</guid>
     </item>
   </channel>
 </rss>
