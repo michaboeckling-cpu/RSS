@@ -5,8 +5,29 @@
     <link>https://oeffentlichevergabe.de/ui/de/search</link>
     <description>Öffentliche Ausschreibungen für Agentur, Marke, Kampagne, Social Media, Website, Event und Employer Branding.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 19 Oct 2026 20:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 11:46:06 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Kampagne „Culinary Germany 2027“</title>
+      <link>https://www.evergabe-online.de/tenderdetails.html?id=900260</link>
+      <description>Vergabestelle: Deutsche Zentrale für Tourismus e.V. | Gegenstand dieser Ausschreibung ist die Auswahl eines leistungsfähigen Dienstleisters zur Entwicklung und Umsetzung einer international einsetzbaren Storytelling-Kampagne. Näheres zum Auftragsgegenstand entnehmen Sie bitte aus der Leistungsbeschreibung im Angebotsvordruck.</description>
+      <pubDate>Mon, 19 Oct 2026 11:22:04 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-1ede9511-10f3-4d4a-8f1f-822fcd430877::530553b2-64e4-4372-8113-5a1a0a9bebca</guid>
+    </item>
+    <item>
+      <title>18-1075-26 IT- und Bürokommunikation; Rahmenvertrag für Sicherheitsüberprüfungen diverser Webanwendungen der Landeshauptstadt Hannover</title>
+      <link>https://oeffentlichevergabe.de/ui/de/search</link>
+      <description>Vergabestelle: Landeshauptstadt Hannover Fachbereich Personal und Organisation | Die Landeshauptstadt Hannover (nachfolgend LHH) betreibt über 150 verschiedene Webanwendungen auf diversen Plattformen. Zu den Webanwendungen zählen beispielsweise ein Veranstaltungskalender, ein Betriebsführungssystem, eine Kursverwaltung für die Volkshochschule, ein Serviceportal oder eine Online-Terminvergabe. Dies sind jedoch ausdrücklich nur Beispiele der gehosteten Webanwendungen, die tatsächlich zu testenden Webanwendungen werden im Laufe des Geltungszeitraums des Rahmenvertrags flexibel in den jeweiligen Kickoff-Gesprächen festgelegt. Aufgrund von internen Sicherheitsrichtlinien müssen die Webanwendungen der LHH regelmäßig einer Sicherheitsüberprüfung (Pentest) unterzogen werden. Rahmenvertrag für Sicherheitsüberprüfungen</description>
+      <pubDate>Mon, 19 Oct 2026 07:00:03 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-25945586::25945586</guid>
+    </item>
+    <item>
+      <title>REZ Bayern_45ind_Jobcenter Würzburg Stadt</title>
+      <link>http://www.arbeitsagentur.de</link>
+      <description>Vergabestelle: Bundesagentur für Arbeit Regionales Einkaufszentrum Bayern (mit Zuständigkeit für Bayern und Sachsen) | § 16 Absatz 1 SGB II i.V.m. § 45 Absatz 1 SGB III - individuelle Maßnahme: Chancen verbessern mit Eventcoaching Konzeption und Durchführung der individuellen Maßnahme Eventcoaching nach § 16 Absatz 1 des Sozialgesetzbuches Zweites Buch (SGB II) in Verbindung mit § 45 Absatz 1 Satz 1 des Sozialgesetzbuches Drittes Buch (SGB III) für ca. 50 Teilnehmendenplätze im Bezirk des Jobcenters Würzburg Stadt</description>
+      <pubDate>Mon, 19 Oct 2026 06:22:06 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-d7baed61-4ade-4e91-90b6-190aef1011df::a085bf60-d9f0-42cc-885b-0bccb93159bb</guid>
+    </item>
     <item>
       <title>Sanierung der Festhalle Stöckwiese in Bietigheim, Freianlagenplanung</title>
       <link>https://www.bietigheim.de</link>
@@ -686,27 +707,6 @@ Vertretung der Bundesanstalt für Immobilienaufgaben | Bundesministerium für Um
       <description>Vergabestelle: BITMARCK | Die BITMARCK Holding GmbH und die BITMARCK GmbH beabsichtigen den Abschluss von Rahmenvereinbarungen über die Erbringung unterschiedlicher IT Dienstleistungen für die BITMARCK Unternehmensgruppe. Die Beschaffung ist in 20 Fachlose aufgeteilt. Die Leistungen umfassen insbesondere Projektkoordination, Sicherheitsanalysen, SQL Unterstützung, Spezifikationsleistungen, Workplace Application Management, SAP HCM Applikationsmanagement, Testleistungen, Telematikleistungen, Java Backend Entwicklung, SPPM Steuerung, SAP Anwendungsentwicklung, Test Environment Management, Testautomatisierung, Fachberatung, Migration, Performancetests, TI Beratung, UX und UI Design, Prozessmodellierung sowie Schwachstellenmanagement. Unternehmen können Angebote für ein Los, mehrere Lose oder sämtliche Lose einreichen. Die Prüfung und Wertung erfolgt für jedes Los gesondert. Je Los sollen Rahmenvereinbarungen mit höchstens fünf Unternehmen geschlossen werden.</description>
       <pubDate>Tue, 13 Oct 2026 02:24:54 +0000</pubDate>
       <guid isPermaLink="false">ocds-mnwr74-01a0a063-6715-4f48-9281-738dd9cf2f0a::01a12f0c-ea9c-4dc8-88e8-0703f413a251</guid>
-    </item>
-    <item>
-      <title>Rahmenvertrag Kampagnen- und Kommunikationsarbeit Rheinhessen 2027 ff.</title>
-      <link>https://www.rheinhessenwein.de</link>
-      <description>Vergabestelle: Rheinhessenwein e.V. | Im Kontext eines Rahmenvertrages werden verschiedene Marketing-Dienstleistungen aus der Kampagnen- und Kommunikationsarbeit der beiden abrufberechtigten Auftraggeber (Rheinhessenwein e.V. und Rheinhessen-Touristik GmbH) nachgefragt. Details sind in den bereitgestellten Vergabeunterlagen, hier insbesondere in den Leistungsbeschreibungs-Dokumenten, dargelegt.</description>
-      <pubDate>Tue, 13 Oct 2026 02:24:40 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-e6698157-4700-4b03-ab32-9a26800294f5::b8ac1c2c-39ba-4fc1-acd0-8c593e18e6d2</guid>
-    </item>
-    <item>
-      <title>Löschanlage HDWN (VE32.1) im Zuge der Baumaßnahme "2603_UKM 1.4 Umbau Zentral OP am Standort Marburg, Universitätsklinikum Gießen und Marburg GmbH, Baldingerstraße, 35043 Marburg"</title>
-      <link>https://www.ukgm.de</link>
-      <description>Vergabestelle: Uniklinikum Gießen und Marburg GmbH | Die geplante Baumaßnahme umfasst die Sanierung und Erweiterung der bestehenden OP-Abteilung in Ebene -2 des Universitätsklinikums in Marburg. Mit der Neustrukturierung des OP-Betriebes und der einhergehenden Optimierung der Wegeführung innerhalb der Behandlungsebene erfolgt eine Verbesserung der organisatorischen Struktur. Neben der Kapazitätserweiterung, unter Einbeziehung der Fläche der ehem. Notaufnahme, und der strukturellen Optimierung soll an Stelle der jetzigen OPs 11-13 ein Hybrid-OP mit angeschlossenem MRT entstehen. Im geplanten Baufeld befinden sich die in Betrieb befindliche OP-Abteilung und die bereits zurückgebaute, ehemalige Notaufnahme der Universitätsklinik Marburg. Die Baumaßnahme wird in 3 Bauabschnitten, parallel zur Beibehaltung des täglichen OP-Betriebs, durchgeführt. Außerdem wird der Bereich der ehemaligen Intensivstation I1 zum Aufwachraum umgebaut. In Ebene -3 sind Umbaumaßnahmen für die Lüftungstechnik erforderlich. Ebenfalls für die Lüftungstechnik wird auf dem Dach ein Wetterschutz errichtet. Besondere Umstände: Der Umbau wird bei laufendem Klinik-Betrieb in freigezogenen Teilbereichen abschnittsweise stattfinden. Die hieraus resultierenden Beeinträchtigungen des Bauablaufs sind in die Preise einzukalkulieren.</description>
-      <pubDate>Tue, 13 Oct 2026 02:24:38 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-34087a42-bbf5-4751-aee5-4b35f8ec8968::f3edf1a9-4c86-44b3-9624-bbf773d081ce</guid>
-    </item>
-    <item>
-      <title>Planungsleistung für die Sanierung, Restaurierung und Erweiterung des denkmalgeschützten "Alten Gärtnerhauses" in Nennhausen</title>
-      <link>https://mwae.brandenburg.de</link>
-      <description>Vergabestelle: Landkreis Havelland - Der Landrat - | Die Gemeinde Nennhausen beabsichtigt die umfassende denkmalgerechte Sanierung, Restaurierung und funktionale Erweiterung des historischen Gärtnerhauses am Fouqué-Platz 2 in Nennhausen. Ziel der Maßnahme ist die Erhaltung und langfristige Sicherung der ortsbildprägenden Bausubstanz sowie die Entwicklung eines multifunktionalen Kultur-, Ausstellungs- und Begegnungsortes für Bürgerinnen und Bürger, Vereine sowie Besucher der Region. Durch die bauliche und funktionale Aufwertung sollen öffentliche Nutzungen wie Ausstellungen, Lesungen, kulturelle Veranstaltungen, Bildungsangebote und Vereinsaktivitäten ermöglicht werden. Gleichzeitig sind die Anforderungen an Barrierefreiheit, Brandschutz, Energieeffizienz und zeitgemäße Gebäudetechnik zu erfüllen. Das Vergabeverfahren wird auf Grundlage einer öffentlich-rechtlichen Vereinbarung durch die Zentrale Vergabestelle des Landkreises Havelland durchgeführt. Auftraggeber und Vertragspartner wird die Gemeinde Nennhausen. Das gegenständliche Vorhaben wird mit ELER-Mitteln im Rahmen des GAP-Strategieplans für die Bundesrepublik Deutschland für die Förderperiode 2023 bis 2027 - Intervention EL-0703 (LEADER) finanziert und ein entsprechender Bewilligungsbescheid liegt bereits vor.</description>
-      <pubDate>Tue, 13 Oct 2026 02:24:36 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-fbf52816-8eb7-49e6-a8af-17d9ece8530e::424bc6d6-b16d-4bcd-8b50-8c9bb359062d</guid>
     </item>
   </channel>
 </rss>
