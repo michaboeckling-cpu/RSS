@@ -5,8 +5,22 @@
     <link>https://oeffentlichevergabe.de/ui/de/search</link>
     <description>Öffentliche Ausschreibungen für Agentur, Marke, Kampagne, Social Media, Website, Event und Employer Branding.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 19:58:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 12:24:21 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>REZ Bayern_45ind_AA Kempten-Memmingen</title>
+      <link>http://www.arbeitsagentur.de</link>
+      <description>Vergabestelle: Bundesagentur für Arbeit Regionales Einkaufszentrum Bayern (mit Zuständigkeit für Bayern und Sachsen) | § 16 Abs. 1 SGB II i.V.m. § 45 SGB III - individuelle Maßnahmenkombination Konzeption und Durchführung der individuellen Maßnahme Eventcoaching nach § 45 Absatz 1 Satz 1 des Sozialgesetzbuches Drittes Buch (SGB III) für ca. 200 Plätze im Bezirk der Agentur für Arbeit Kempten-Memmingen.</description>
+      <pubDate>Mon, 26 Oct 2026 12:22:05 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-923dedfc-71fa-4e84-8888-a486de3fc85b::61581b1c-cba5-40a5-bfae-ba0d4c580992</guid>
+    </item>
+    <item>
+      <title>Trainerpool FBA</title>
+      <link>http://www.arbeitsagentur.de</link>
+      <description>Vergabestelle: Bundesagentur für Arbeit (BA), vertreten durch den Vorstand, hier vertreten durch die Leitung des Geschäftsbereiches Einkauf im BA-Service-Haus | Trainerpool FBA Gegenstand der Vergabe ist eine Trainertätigkeit für die Führungsakademie der BA in Lauf/Pegnitz für die Zielgruppe "Obere Führungskräfte" sowie "Führungskräfte der Führungsebene I" mit Geschäftsführungsverantwortung der BA. Schwerpunktmäßig bezieht sich die Trainertätigkeit auf Aufgaben der Konzeption, Organisation und Moderation sowie der Durchführung von Trainings in Präsenz oder in virtueller Form. Zum Einsatz kommt dabei jeweils ein Trainer. Zeitlicher Umfang und Leistungszeitraum. Vorgesehen ist eine Trainertätigkeit von durchschnittlich ca. 1,0 bis 1,5 Tagen pro Monat, wobei ein Ausgleich zwischen Monaten mit größerem Arbeitsanfall und Monaten mit schwächerem Arbeitsanfall vom Auftraggeber (AG) vorgenommen werden kann. Die Trainertätigkeit muss in den Jahren 2027/2028 erfolgen. Nähere Informationen entnehmen Sie bitte aus der Leistungsbeschreibung.</description>
+      <pubDate>Mon, 26 Oct 2026 05:52:04 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-eeea5969-2cca-4933-a69e-f7bd7ab71647::bf3d0d77-54b5-427e-af7b-82121153ea37</guid>
+    </item>
     <item>
       <title>Betreuung der weltwärts-Community</title>
       <link>https://www.engagement-global.de/</link>
@@ -694,20 +708,6 @@ Vertretung der Bundesanstalt für Immobilienaufgaben | Bundesministerium für Um
       <description>Vergabestelle: Hochsauerlandkreis | Elektroinstallation für den Neubau des Berufskollegs Meschede</description>
       <pubDate>Sun, 18 Oct 2026 11:22:04 +0000</pubDate>
       <guid isPermaLink="false">ocds-mnwr74-50ea8fd4-2b7b-41d0-a81b-98b7070646f2::6fb3f6a6-7817-4623-9bec-aacab94dd5cd</guid>
-    </item>
-    <item>
-      <title>Einführung und Betrieb eines zentralen Lernmanagementsystems</title>
-      <link>https://www.dorsten.de</link>
-      <description>Vergabestelle: Stadt Dorsten | Einführung und Betrieb eines zentralen Lernmanagementsystems für die Stadt Dorsten</description>
-      <pubDate>Sun, 18 Oct 2026 10:12:04 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-520511a0-99c7-48a4-9482-fcb9a377fce9::f8c8f9aa-4a93-4180-9165-e4575b4f59b1</guid>
-    </item>
-    <item>
-      <title>Uhlandschule Tragwerksplanung</title>
-      <link>https://www.offenbach.de</link>
-      <description>Vergabestelle: Stadt Offenbach am Main | Planungsleistung Tragwerksplanung für die Uhlandschule Offenbach am Main - Investitionsprogramm Ganztagsausbau an Grundschulen</description>
-      <pubDate>Sun, 18 Oct 2026 10:10:04 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-5b45c162-3c82-4e19-b707-ef005fdb6597::0ce87712-503a-46e6-815b-51aa4e27f9a1</guid>
     </item>
   </channel>
 </rss>
