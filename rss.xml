@@ -5,8 +5,15 @@
     <link>https://oeffentlichevergabe.de/ui/de/search</link>
     <description>Öffentliche Ausschreibungen für Agentur, Marke, Kampagne, Social Media, Website, Event und Employer Branding.</description>
     <language>de-de</language>
-    <lastBuildDate>Mon, 23 Nov 2026 18:16:45 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:51:18 +0000</lastBuildDate>
     <ttl>180</ttl>
+    <item>
+      <title>Erstellung einer neuen Projektwebsite</title>
+      <link>https://oeffentlichevergabe.de/ui/de/search</link>
+      <description>Vergabestelle: DIHK Service GmbH | Erstellung einer neuen Website des Projekts "Chancen Nutzen! Mit Teilqualifikationen Richtung Berufsabschluss", ansässig bei der DIHK Service GmbH Hosting/Support bis einschl. 09/2029 Website, Hosting, Support, Wordpress</description>
+      <pubDate>Mon, 23 Nov 2026 19:00:03 +0000</pubDate>
+      <guid isPermaLink="false">ocds-mnwr74-26073642::26073642</guid>
+    </item>
     <item>
       <title>H8VER VE 04 Schlosserarbeiten</title>
       <link>https://www.messe-berlin.de</link>
@@ -699,13 +706,6 @@
       <description>Vergabestelle: DAK-Gesundheit | Die DAK-Gesundheit benötigt ab 1. Februar 2027 kompetente Dienstleister für das Echtzeitmonitoring/Social Listening im Web und Social Media sowie für die Auswertung ihrer Google Places Statistiken.</description>
       <pubDate>Sat, 14 Nov 2026 23:00:04 +0000</pubDate>
       <guid isPermaLink="false">ocds-mnwr74-a04ed3f5-6f3e-44b8-9057-65ad270534ce::ed23e2e5-7d5d-426b-ba89-d42e2e496abe</guid>
-    </item>
-    <item>
-      <title>RV Reinigungsleistungen (5 Lose), hier: Los 1 (AB)</title>
-      <link>https://www.messe-berlin.de</link>
-      <description>Vergabestelle: Messe Berlin GmbH | Die Messe Berlin GmbH, im Folgenden gleichbedeutend auch Messe Berlin und Auftraggeberin (AG) genannt, schreibt folgende Leistung aus: RV Reinigungsleistungen (5 Lose), hier: Los 1AB, Vergabenummer: CP1-2026-0022</description>
-      <pubDate>Sat, 14 Nov 2026 17:20:04 +0000</pubDate>
-      <guid isPermaLink="false">ocds-mnwr74-5e804730-c8d3-4ef1-9f38-dfdb54c2821d::2bc448b0-0940-4423-ab46-3bb866bd1570</guid>
     </item>
   </channel>
 </rss>
